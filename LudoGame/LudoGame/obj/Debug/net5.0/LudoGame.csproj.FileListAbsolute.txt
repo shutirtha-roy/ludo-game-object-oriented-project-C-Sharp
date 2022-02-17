@@ -1,0 +1,32 @@
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.exe
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.deps.json
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.runtimeconfig.json
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.runtimeconfig.dev.json
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.dll
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\ref\LudoGame.dll
+F:\Development\C#\LudoGame\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.pdb
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.csproj.AssemblyReference.cache
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.AssemblyInfoInputs.cache
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.AssemblyInfo.cs
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.csproj.CoreCompileInputs.cache
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.dll
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\ref\LudoGame.dll
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.pdb
+F:\Development\C#\LudoGame\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.genruntimeconfig.cache
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.exe
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.deps.json
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.runtimeconfig.json
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.runtimeconfig.dev.json
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.dll
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\ref\LudoGame.dll
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\bin\Debug\net5.0\LudoGame.pdb
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.csproj.AssemblyReference.cache
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.AssemblyInfoInputs.cache
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.AssemblyInfo.cs
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.csproj.CoreCompileInputs.cache
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.dll
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\ref\LudoGame.dll
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.pdb
+F:\Extra\Ludo Repo\devskill-csharp-b8\LudoGame\LudoGame\obj\Debug\net5.0\LudoGame.genruntimeconfig.cache
