@@ -19,10 +19,5 @@ namespace LudoGame.Game
         public int DiceValue { get; set; }
         
         public StringBuilder pawnPos = new StringBuilder();
-
-
-
-
-
     }
 }
