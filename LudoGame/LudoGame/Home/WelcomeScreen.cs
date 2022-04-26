@@ -9,20 +9,25 @@ namespace LudoGame.Home
 {
     public abstract class WelcomeScreen
     {
-        public string message { get; set; }
+        public string Message { get; set; }
+        public IOutput ShowOutput { get; set; }
+        public IInput Key { get; set; }
         public WelcomeScreen()
         {
-            IOutput showOutput = new InputOutputProcessor();
+            ShowOutput = new InputOutputProcessor();
+            Key = new InputOutputProcessor();
+            DisplayScreen(ShowOutput, Key);
+        }
+
+        public void DisplayScreen(IOutput showOutput, IInput key)
+        {
             Console.BackgroundColor = ConsoleColor.White;
             showOutput.ClearScreen();
             Console.ForegroundColor = ConsoleColor.Black;
-            message = OutputMessage.WelcomeMessage();
-            showOutput.GetOutput(message);
-            IInput key = new InputOutputProcessor();
+            Message = OutputMessage.WelcomeMessage();
+            showOutput.GetOutput(Message);
             key.ReadKey();
             showOutput.ClearScreen();
-            
-            
         }
 
     }
