@@ -11,9 +11,9 @@ namespace LudoGame.Home
     {
         public HomeScreen() : base()
         {
-            IOutput showOutput = new InputOutputProcessor();
-            message = OutputMessage.HomeMessage();
-            showOutput.GetOutput(message);
+            ShowOutput = new InputOutputProcessor();
+            Message = OutputMessage.HomeMessage();
+            ShowOutput.GetOutput(Message);
         }
     }
 }
