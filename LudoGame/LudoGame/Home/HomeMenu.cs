@@ -13,15 +13,17 @@ namespace LudoGame.Home
     {
         private IInput inputValue;
         private IOutput outputValue;
+        private int HomeInput { get; set; }
+        private int HomeCondition { get; set; }
 
         public HomeMenu()
         {
             inputValue = new InputOutputProcessor();
             outputValue = new InputOutputProcessor();
-            int homeInput = inputValue.GetIntInput();
+            HomeInput = inputValue.GetIntInput();
             outputValue.ClearScreen();
-            int homeCondition = (int)Menu(homeInput);
-            CheckMenuCondition(homeCondition);
+            HomeCondition = (int)Menu(HomeInput);
+            CheckMenuCondition(HomeCondition);
         }
         
         public LudoHome Menu (int homeInput)
