@@ -10,12 +10,13 @@ namespace LudoGame.Home
     public class Instruction
     {
         public string Message { get; set; }
+        public IOutput Output { get; set; }
 
         public Instruction()
         {
             Message = getMessage();
-            IOutput output = new InputOutputProcessor();
-            output.GetOutput(Message);
+            Output = new InputOutputProcessor();
+            Output.GetOutput(Message);
         }
 
         public string getMessage()
